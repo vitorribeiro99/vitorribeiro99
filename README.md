@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/vitor-ribeiro99/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=30" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/vitorhsr99">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&logoWidth=30" alt="Twitter Badge"/>
   </a>
    <a href="https://discord.com/users/388000346489880576">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=plastic&logoWidth=30" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or 
    <a href="mailto:v99ribeiro@gmail.com?subject=Came%20from%20Github">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=20" alt="Gmail Badge"/>
   </a>
 
 
