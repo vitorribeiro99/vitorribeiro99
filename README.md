@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ⇢ I'm a _**Web3**_ enthusiast 🌐 and I have dedicated myself to learning and doing projects in the area 👷🏻
 
-💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or 
+💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or  
    <a href="mailto:v99ribeiro@gmail.com?subject=Came%20from%20Github">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
