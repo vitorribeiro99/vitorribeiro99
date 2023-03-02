@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/73917262/222388230-62bca915-be56-4d2d-9115-6cc2856c71c3.png" width="100"/>
 </div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
