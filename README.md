@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> Hi there, I'm Vítor Ribeiro 🙋🏻‍♂️ </h3>
+<h3 align="center" > Hi there, I'm Vítor Ribeiro 🙋🏻‍♂️ </h3>
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/73917262/222388230-62bca915-be56-4d2d-9115-6cc2856c71c3.png" width="100"/>
 </div>
