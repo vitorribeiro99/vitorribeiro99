@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+
 ### 👨🏻‍💻 About Me :
 
 ⇢ I'm an **Electronic Engineer** currently working as **Blockchain Developer**
@@ -41,6 +42,4 @@ Here are some ideas to get you started:
    <a href="mailto:v99ribeiro@gmail.com?subject=Came%20from%20Github">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=20" alt="Gmail Badge"/>
   </a>
-
-
 
