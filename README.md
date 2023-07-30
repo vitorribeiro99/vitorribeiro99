@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ⇢ I'm a _**Web3**_ enthusiast 🌐 and I have dedicated myself to learning and doing projects in the area 👷🏻
 
 ⇢ Currently building my project [Publed](https://publed.io) on top of Solana Blockchain ⛓️
+  
   ⇢ Publed is one of the selected projects of the [Solana Accelerator Program](https://twitter.com/publed_official/status/1659165325697400833) 2023 🚀
 
 💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or 
