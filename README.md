@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ⇢ I'm a _**Web3**_ enthusiast 🌐 and I have dedicated myself to learning and doing projects in the area 👷🏻
 
-⇢ Currently building my project [Publed](publed.io) on top of Solana Blockchain ⛓️
+⇢ Currently building my project [Publed](www.publed.io) on top of Solana Blockchain ⛓️
 
 💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or 
    <a href="mailto:v99ribeiro@gmail.com?subject=Came%20from%20Github">
