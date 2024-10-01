@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 ⇢ Currently building my project [Publed](https://publed.io) on top of Solana Blockchain ⛓️
   
-  ⇢ Publed is one of the selected projects of the [Solana Accelerator Program](https://twitter.com/publed_official/status/1659165325697400833) 2023 🚀
 
 💡 If you have any ideas or want to discuss something about Web3, feel free to contact me through social media or 
    <a href="mailto:v99ribeiro@gmail.com?subject=Came%20from%20Github">
